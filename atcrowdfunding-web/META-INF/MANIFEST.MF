@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: atcrowdfunding-web
+Bundle-SymbolicName: atcrowdfunding-web
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.atguigu.atcrowdfunding.controller,
+ com.atguigu.atcrowdfunding.web
